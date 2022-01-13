@@ -13,3 +13,8 @@ Cualidades:
 	-Autodidacta
 	-Humilde
 	-Persistente
+
+Debilidades:
+	-Introvertido
+	-Ansioso
+	-Cabeza fria
